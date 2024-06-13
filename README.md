@@ -9,7 +9,7 @@ Case records of the massachusetts general hospital are published in the New Engl
 The PDF Extract API (included with the PDF Services API) is a cloud-based web service that uses Adobe’s Sensei AI technology to automatically extract content and structural information from PDF documents – native or scanned – and to output it in a structured JSON format. The service extracts text, complex tables, and figures as briefly summarized in [this link](https://developer.adobe.com/document-services/docs/overview/pdf-extract-api/).
 
 <p align="center">
-  <img src="extract_process_21.WEBP" alt="demo" width="800">
+  <img src="adobe_pdf_extract_api_diagram.png" alt="demo" width="800">
 </p>
 
 #### 0.2.1 Python user quick start
